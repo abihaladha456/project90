@@ -17,7 +17,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#word1,#word2
 {
 	width: 60%;
 }
